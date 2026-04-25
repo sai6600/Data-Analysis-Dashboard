@@ -1,4 +1,4 @@
-# Vrinda Store Data Analysis(Interactive dashboard built using MSExcel)
+# Vrinda-Store-Data-Analysis(Interactive dashboard built using MSExcel)
 
 ## Project Objective 
 The Vrindha Store wants to create an annual sales report for 2025.So that the owner of the store can under their customers
@@ -7,7 +7,7 @@ and grow more sales on her business by the year 2026 and 2027.
 ## Dataset Used
 - <a href="https://github.com/sai6600/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Vrinda Store Data></a>
 
-## questions
+## Questions
 1) Which month got highest sales and orders	
 2) Who purchased more men or women in year 2025	
 3) What are differnt order status in 2025	
@@ -16,6 +16,7 @@ and grow more sales on her business by the year 2026 and 2027.
 6) Which channel is contributes to maximum sales	
 7) Highest selling category
 8) Percentage of total orders delivered
+9) Dashboard Interaction <a href="https://github.com/sai6600/Data-Analysis-Dashboard/blob/main/README.md">View Dashboard</a>
 
 ## Process
 1) First check with the data cleaning process where any duplicates are there or any missing values and sorting of data
